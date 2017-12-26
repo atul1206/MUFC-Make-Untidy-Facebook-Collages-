@@ -1,4 +1,4 @@
-# MUFC-Make-Upbeat-Facebook-Collages-
+# MUFC-Make-Untidy-Facebook-Collages-
 Python script to make a collage of all the members of a particular Facebook group of which you are a member using their DPs. THe script takes approx 30 minutes to complete execution for a 100 member strong group. All you gotta do is enter the group id or name as given in the URL and you are good to go. :) <br />
 Used Selenium for scraping and PIL (Python Imaging Library) for collage making. <br /><br />
 Steps to use : <br />
